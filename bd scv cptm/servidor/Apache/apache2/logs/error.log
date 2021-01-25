@@ -1,0 +1,8 @@
+[Tue May 20 20:05:18 2014] [notice] Apache/2.2.11 (Win32) PHP/5.3.5 configured -- resuming normal operations
+[Tue May 20 20:05:18 2014] [notice] Server built: Dec 10 2008 00:10:06
+[Tue May 20 20:05:18 2014] [notice] Parent: Created child process 4492
+[Tue May 20 20:05:19 2014] [notice] Child 4492: Child process is running
+[Tue May 20 20:05:19 2014] [notice] Child 4492: Acquired the start mutex.
+[Tue May 20 20:05:19 2014] [notice] Child 4492: Starting 250 worker threads.
+[Tue May 20 20:05:19 2014] [notice] Child 4492: Starting thread to listen on port 80.
+[Tue May 20 21:40:54 2014] [notice] Parent: child process exited with status 1073807364 -- Restarting.

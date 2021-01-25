@@ -1,0 +1,9 @@
+C:\Users\Robinson\Dropbox\SCV v.030 2008 em mysql\robo\robo\bin\Debug\robo.exe
+C:\Users\Robinson\Dropbox\SCV v.030 2008 em mysql\robo\robo\bin\Debug\robo.pdb
+C:\Users\Robinson\Dropbox\SCV v.030 2008 em mysql\robo\robo\bin\Debug\MySql.Data.dll
+C:\Users\Robinson\Dropbox\SCV v.030 2008 em mysql\robo\robo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Robinson\Dropbox\SCV v.030 2008 em mysql\robo\robo\obj\Debug\robo.Form1.resources
+C:\Users\Robinson\Dropbox\SCV v.030 2008 em mysql\robo\robo\obj\Debug\robo.Properties.Resources.resources
+C:\Users\Robinson\Dropbox\SCV v.030 2008 em mysql\robo\robo\obj\Debug\robo.csproj.GenerateResource.Cache
+C:\Users\Robinson\Dropbox\SCV v.030 2008 em mysql\robo\robo\obj\Debug\robo.exe
+C:\Users\Robinson\Dropbox\SCV v.030 2008 em mysql\robo\robo\obj\Debug\robo.pdb

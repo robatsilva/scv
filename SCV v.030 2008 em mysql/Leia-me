@@ -1,0 +1,23 @@
+﻿Até a versão 0.25 os executáveis estão prontos para uso. Todas as funções foram revistas e os erros revisados
+A versão 0.25 está lenta no executável da escala, nesta versão a consulta está reformulada.
+
+Nesta versão será trabalhado a lógica para outras linhas, onde o sentido de circulação pode ser outro.
+
+Já foram feiras alterações no executável único.
+
+
+v.027
+Nesta versão finalizei a lógica da linha 8 e 9, incluí opções para o ccti incluir trens, fiz a função para fechar tudo se a versão não for compatível
+Escala pode remover Maquinista
+Esta é a versão final. a partir da 0.28 a lógica está para o arquivo único
+
+V.029
+Coloquei toda conexão no banco mysql. na próxima versão irei tentar inserir relatórios
+
+V.030
+Lógica dos relatórios
+O arquivo único não foi mais alterado, sendo trazido para cá desde a versão 0.28.
+A partir dessa versão todos os exe estão no mysql
+Finalizado o relatório com impressão e exportar para excel.
+Comentei o código que trata a cor do prefixo diferenciado, essa alteração deve seguir as futuras atualizações
+
